@@ -1,0 +1,27 @@
+No curso de Introdução ao Git e Github foi visto uma breve introdução a tecnologia Git
+Alguns comandos básicos no terminal por linha de comando para navegar entre diretorios.
+ - Mudar de Pastas
+ - Listar as pastas
+ - Criar pastas e arquivos
+ - Deletar pastas e arquivos.
+Tópicos fundamentais para entender o funcionamento do GIT
+ - SHA1
+ - Objetos fundamentais 
+ - Sistema distribuído
+ - Segurança
+Objetos internos
+ - BLOBS
+ - TREES
+ - COMMITS
+Primeiros comando com GIT
+ - Iniciar o GIT
+ - Iniciar o versionamento 
+ - Criar um commit
+Ciclo de vida dos arquivos no GIT
+ - GIT INIT
+ - Tracked - Untracked - Unmodified - Modified - Staged
+Trabalhando com o GitHub
+ - Criando o primeiro repositorio
+ - Configurando o GitHub
+ - Realizando o primeiro commit e dando push
+
